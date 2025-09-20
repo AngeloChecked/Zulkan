@@ -8,7 +8,7 @@ A simple wrapper of vulkan
 Mac
 
 ```
-brew install glfw3 molten-vk
+brew install glfw3
 ```
 install the vulkan sdk here: https://vulkan.lunarg.com/sdk/home
 
